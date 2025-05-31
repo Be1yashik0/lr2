@@ -15,7 +15,7 @@ git clone https://github.com/Be1yashik0/lr2.git
 ### 4. Запуск сервера
 ```
 cd lr2
-node index.js
+yarn index.js
 ```
 
 ### 5. Открытие страницы
